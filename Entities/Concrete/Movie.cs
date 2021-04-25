@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Entities.Concrete
 {
-    class Movie
+    public class Movie
     {
     }
 }
