@@ -6,5 +6,7 @@ namespace Entities.Concrete
 {
     public class Movie
     {
+
+        public int Deneme { get; set; }      
     }
 }
